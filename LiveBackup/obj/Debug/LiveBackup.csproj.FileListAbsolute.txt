@@ -1,0 +1,8 @@
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\LiveBackup\LiveBackup\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\LiveBackup\LiveBackup\bin\Debug\LiveBackup.exe
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\LiveBackup\LiveBackup\bin\Debug\LiveBackup.pdb
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\LiveBackup\LiveBackup\obj\Debug\LiveBackup.exe
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\LiveBackup\LiveBackup\obj\Debug\LiveBackup.pdb
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\LiveBackup\LiveBackup\obj\Debug\LiveBackup.formMain.resources
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\LiveBackup\LiveBackup\obj\Debug\LiveBackup.csproj.GenerateResource.Cache
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\LiveBackup\LiveBackup\obj\Debug\LiveBackup.formAddBackup.resources

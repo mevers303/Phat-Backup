@@ -1,0 +1,14 @@
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\LiveBackup\Backup Util\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\LiveBackup\Backup Util\obj\Debug\Backup_Util.frmMain.resources
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\LiveBackup\Backup Util\obj\Debug\Phat Backup.csproj.GenerateResource.Cache
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\LiveBackup\Backup Util\obj\Debug\Backup Util.exe
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\LiveBackup\Backup Util\obj\Debug\Backup Util.pdb
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\LiveBackup\Backup Util\bin\Debug\Backup Util.exe
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\LiveBackup\Backup Util\bin\Debug\Backup Util.pdb
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\Phat Backup\Backup Util\obj\Debug\Backup Util.exe
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\Phat Backup\Backup Util\obj\Debug\Backup Util.pdb
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\Phat Backup\Backup Util\bin\Debug\Backup Util.exe
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\Phat Backup\Backup Util\bin\Debug\Backup Util.pdb
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\Phat Backup\Backup Util\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\Phat Backup\Backup Util\obj\Debug\Backup_Util.frmMain.resources
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\Phat Backup\Backup Util\obj\Debug\Phat Backup.csproj.GenerateResource.Cache
